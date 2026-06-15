@@ -1,0 +1,6 @@
+{
+  "name": "Accessory Hub",
+  "description": "A premium, elegant, and modern e-commerce website for luxury fashion accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
